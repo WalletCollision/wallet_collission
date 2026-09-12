@@ -15,7 +15,7 @@
 
 ## 下载地址
 
-- 下载地址：<a href="http://oss.coin.vexcoin.top/wallet/WalletTool.zip">点击下载</a>
+- 下载地址：<a href="http://oss.coin.vexcoin.top/wallet/WalletTool.zip" target="_blank" rel="noopener noreferrer">点击下载</a>
 - 也可在 Telegram 频道获取最新安装包（见下方「联系我们」）
 
 ## 联系我们
